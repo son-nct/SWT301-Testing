@@ -1,2 +1,6 @@
 # SWT301-Testing
-Is the place to store projects relate to SWT301
+Member of group
++ Trần Thanh Tùng
++ Nguyễn Công Thái Sơn
++ Trần Gia Bảo
++ Võ Nhật Huy
